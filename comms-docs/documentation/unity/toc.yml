@@ -1,0 +1,23 @@
+- name: Getting started
+  href: getting-started/installation.md
+  items:
+    - name: Installation
+      href: getting-started/installation.md
+    - name: Initialization
+      href: getting-started/initialization.md
+    - name: Remote participants
+      href: getting-started/remote-participants.md
+    - name: Shared scene
+      href: getting-started/shared-scene.md
+    - name: Individual scene
+      href: getting-started/individual-scene.md
+
+- name: Component reference
+  href: components/index.md
+- name: Visual Scripting reference
+  href: visualscripting/nodes.md
+  items:
+    - name: Nodes
+      href: visualscripting/nodes.md
+    - name: Events
+      href: visualscripting/events.md
