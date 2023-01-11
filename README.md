@@ -1,6 +1,5 @@
-# workshop-game-engines
-
 # Introduction to Real-time Spatial Audio and Streaming for Game Engines | Dolby.io CodeLab
+
 Users expect immersive experiences that can not only be entertaining but create engagement and retention.
 Up until now, most immersive audio experiences within game engines has been based on a pre-production and static asset workflow. Developers and creators would need to script and pre-produce complex audio expereinces to playback at runtime. 
 
@@ -10,10 +9,16 @@ This workshop will explore how to build and include the Dolby.io communications 
 
 This repo contains all the information to get started with the APIs and Plugins.  As with previous Dolby.io CodeLabs our tutorial modeules will be served from a documentation server maintained in this repo.  Simply install and run the Documentation server to get started.  This workshop will also contain several web demos to enable interaction with the APIs directly.  Simply run the Dev Server to launch those demo applications. 
 
-## Installation:
+## Sign-up
+
+[Sign up for a Dolby.io account](https://bit.ly/dolby-io-at-reality-hack).
+
+## Installation
+
 ``` npm install```
 
 ## Run Documentation Server
+
 ```npm run docs```
 
 
