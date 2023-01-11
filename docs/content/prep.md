@@ -2,7 +2,7 @@
 
 The workshop will present independent modules for Unity and Unreal Engine; covering Real-time Streaming and Real-time Communications API and Plugins from Dolby.io. Based on the game engine track you'd like to follow, review the basic requirements below.  Each of the Dolby.io APIs have their own individual requirements; as such refer to the individual learning module for game engine compatibility. 
 
-- [Dolby.io Account](https://dashboard.dolby.io)
+- [Dolby.io Account](https://bit.ly/dolby-io-at-reality-hack)
 - Node and NPM installed to run this workshop
 - Web Examples: VSCode or suitible editor
 - Unity|Unreal Examples: Microsoft Visual Studio
