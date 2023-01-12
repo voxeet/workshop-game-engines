@@ -15,7 +15,3 @@ This repo contains all the information to get started with the APIs and Plugins.
 
 ## Run Documentation Server
 ```npm run docs```
-
-
-## Run Dev Server
-```npm run dev```

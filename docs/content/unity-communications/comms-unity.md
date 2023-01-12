@@ -19,6 +19,7 @@ You can install the plugin from the Unity Package Manager.
 - Select **Add package from git URL..**, enter the URL below
     ```
     https://github.com/DolbyIO/comms-sdk-unity.git
+
     ```
 
 > ⓘ On MacOS, it is necessary to unquarantine SDK libraries. Otherwise, quarantine attributes prevent their usage. The simplest way to unquarantine the SDK library is to strip the quarantine attributes recursively for all the files in the package. Follow these steps:
