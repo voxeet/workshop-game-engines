@@ -29,11 +29,17 @@ You can install the plugin from the Unity Package Manager.
 If you are using Unity from an Apple Silicon Mac (e.g., M1), please be aware that currently the SDK is only distributed as x64 binary for Mac. You need to configure the Unity project under `File` > `Build Settings` and select `Intel 64bits` to make it work. 
 
 
+
+
 #### Next Steps:
-* [Initalization](http://localhost:8080/documentation/unity/getting-started/initialization.html)
-* [Remote participants](http://localhost:8080/documentation/unity/getting-started/remote-participants.html)
-* [Shared Scenes](http://localhost:8080/documentation/unity/getting-started/shared-scene.html)
-* [Individual Scene](http://localhost:8080/documentation/unity/getting-started/individual-scene.html)
+
+* [Getting Started](https://api-references.dolby.io/comms-sdk-dotnet/documentation/unity/getting-started/installation.html)
+
+* [Initalization](https://api-references.dolby.io/comms-sdk-dotnet/documentation/unity/getting-started/initialization.html)
+  
+* [Remote participants](https://api-references.dolby.io/comms-sdk-dotnet/documentation/unity/getting-started/remote-participants.html)
+* [Shared Scenes](https://api-references.dolby.io/comms-sdk-dotnet/documentation/unity/getting-started/shared-scene.html)
+* [Individual Scene](https://api-references.dolby.io/comms-sdk-dotnet/documentation/unity/getting-started/individual-scene.html)
 
   
-
+* [Dolby.io .net SDK](https://github.com/DolbyIO/comms-sdk-dotnet)

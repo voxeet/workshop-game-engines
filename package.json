@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "node server.js",
-    "docs": "docsify serve docs & node server-comms.js"
+    "docs": "docsify serve docs"
   },
   "keywords": [
     "BabylonJS",
