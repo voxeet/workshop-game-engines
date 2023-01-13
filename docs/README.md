@@ -8,7 +8,12 @@ In this Dolby.io CodeLab, we will explore building Real-time Spatial Audio and S
 
 This workshop will explore how to build and include the Dolby.io communications and Streaming APIs within your experiences. These hands-on sections explore extending this environment to include live streaming media and communications between participants in that metaverse environment. For real-time interactivity with sub-second latency we'll cover some of the same techniques with WebRTC being used by major companies for broadcast quality workflows.
 
-This repo contains all the information to get started with the APIs and Plugins.  As with previous Dolby.io CodeLabs our tutorial modeules will be served from a documentation server maintained in this repo.  Simply install and run the Documentation server to get started.  This workshop will also contain several web demos to enable interaction with the APIs directly.  Simply run the Dev Server to launch those demo applications. 
+This repo contains all the information to get started with the APIs and Plugins.  As with previous Dolby.io CodeLabs our tutorial modeules will be served from a documentation server maintained in this repo.  Simply install and run the Documentation server to get started.  This workshop will also contain several web demos to enable interaction with the APIs directly.  
+
+[View Workshop](dolbyio-workshop-game-engines.netlify.app)
+
+
+Or run locally by simply running the Dev Server to launch those demo applications. 
 
 ## Installation:
 ``` npm install```
