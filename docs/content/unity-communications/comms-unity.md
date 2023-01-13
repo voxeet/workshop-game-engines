@@ -14,7 +14,7 @@ With the Dolby.io Virtual World plugin for Unity, you can easily integrate Dolby
 - Install [git-lfs](https://git-lfs.com/) command line tool on your computer.
 
 ### How to install
-You can install the plugin from the Unity Package Manager.
+You can install the plugin from the Unity Package Manager.git 
 
 - Open the Package Manager from the Unity Editor and click the ➕ icon in the upper left corner.
 - Select **Add package from git URL..**, enter the URL below
