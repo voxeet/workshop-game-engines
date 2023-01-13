@@ -3,7 +3,7 @@
 
 
 
-## Best Real-time Social Experience ($250)
+## Best Real-time Social Experience ($750)
 
 ?> Connect people from around the world to have immersive social experiences. Use the Dolby.io SDKs to provide
 real-time streaming and/or spatial communications to your experience.
