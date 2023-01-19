@@ -1,9 +1,8 @@
 # Prize Category and Thought Starters
 
 
-
-
-## Best Real-time Social Experience ($750)
+## Best Real-time Social Experience 
+### $750 awarded to [Up In The Air](https://devpost.com/software/up-in-the-air-choifg) 
 
 ?> Connect people from around the world to have immersive social experiences. Use the Dolby.io SDKs to provide
 real-time streaming and/or spatial communications to your experience.

@@ -9,3 +9,5 @@ This workshop will explore how to build and include the Dolby.io communications 
 This repo contains all the information to get started with the APIs and Plugins.  As with previous Dolby.io CodeLabs our tutorial modeules will be served from a documentation server maintained in this repo.  Simply install and run the Documentation server to get started.  This workshop will also contain several web demos to enable interaction with the APIs directly.  Simply run the Dev Server to launch those demo applications. 
 
 You can find the project files at this [GitHub repo](https://github.com/dolbyio-samples/workshop-game-engines.git)
+
+?>This workshop was first presented at MIT Reality Hack 2023, it's a living resource for getting started with Dolby.io Game Engine Technolofgies and Plugins.  The community is invited to participate by writing additional modules and content via submitting pull requests; in fact, community members that contribute to this repo and write about it may be eligible for compensation. Sign up for the community writing program to particpate.
