@@ -38,13 +38,6 @@ To also import the Sample Scenes, you can click on the Samples menu item in the 
   * The window will update and you can verify that the Packages-Dolby -> Millicast (RTS) package was installed.
   * Close the editor.
 
-?> Since this package is not yet published, we will have to perform this extra step:
-After installing, go into where the package is cached, which is generally within the project root: **Library/PackageCache** on Mac, and copy the **com.dolby.millicast[XXXX]** folder into the **Packages** folder under the project root. This is to allow us to run the sample scenes embedded in the package. 
-
-
-
-
-
 #### Get Up And Running:
 
 #### Running the Streaming Sample Scene

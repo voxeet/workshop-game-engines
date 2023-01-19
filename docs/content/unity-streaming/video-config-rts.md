@@ -95,3 +95,7 @@ Not all values have to be set at once. Here is a quick explanation for each of t
 * **maxBitrate:** The maximum bitrate of encoding. This is set to 2.5 mbps by default. This has to be higher than minBitrate.
 * **maxFramerate:** The maximum video frame-rate. Can be used to cap the frame-rate to reduce bandwidth used. 
 * **resolutionDownScaling:** a factor greater than 1.0 to reduce the resolution by. This can be used to reduce the resolution to save bandwidth while publishing. For example, for an original resolution of 1280 x 720, setting the factor to 2.0 will halve the resolution to 640 x 360. 
+
+
+### Next Section
+* [Rendering onto Unity Materials](content/unity-streaming/material-rendering.md)

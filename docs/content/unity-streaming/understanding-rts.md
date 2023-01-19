@@ -44,5 +44,5 @@ publisher.SetAudioListenerAsSource()
 ```
 Scripting will be elaborated more in the following section: 
 
-Next Section:  
+### Next Section:  
 * [Instantiating RTS within a script](content/unity-streaming/scripting-rts.md)

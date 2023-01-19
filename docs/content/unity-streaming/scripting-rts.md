@@ -32,9 +32,9 @@ publisher.SetAudioSource(audioSource);
  
 // You can optionally add a RawImage to render the camera feed locally, as well
 // as AudioSource to render the local audio source. You can multiple of both.
-RawImage renderTexture = ...;
+RawImage renderImage = ...;
 AudioSource renderAudioSource ...;
-publisher.AddRenderImage(renderTexture);
+publisher.AddVideoRenderTarget(renderImage);
 publisher.AddRenderAudioSource(renderAudioSource);
 ```
 Finally, we can publish:
@@ -78,7 +78,7 @@ McSubscriber subscriber = ...;
 RawImage renderImage = ...;
 AudioSource renderAudioSource;
  
-subscriber.AddRenderImage(renderImage);
+subscriber.AddVideoRenderTarget(renderImage);
 subscriber.AddRenderAudioSource(renderAudioSource);
 ```
 We can add however many of those we want to the subscriber, and they will all receive the render the same stream. To subscribe: 
