@@ -14,7 +14,6 @@ Simply [view](https://dolbyio-samples.github.io/workshop-game-engines/#/) to get
 
 [View Workshop](https://dolbyio-samples.github.io/workshop-game-engines/#/)
 
-
 Or run locally by simply running the Dev Server to launch those demo applications. 
 
 ## Installation:
