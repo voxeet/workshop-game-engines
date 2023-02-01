@@ -10,4 +10,6 @@ This repo contains all the information to get started with the APIs and Plugins.
 
 You can find the project files at this [GitHub repo](https://github.com/dolbyio-samples/workshop-game-engines.git)
 
-?>This workshop was first presented at MIT Reality Hack 2023, it's a living resource for getting started with Dolby.io Game Engine Technolofgies and Plugins.  The community is invited to participate by writing additional modules and content via submitting pull requests; in fact, community members that contribute to this repo and write about it may be eligible for compensation. Sign up for the community writing program to particpate.
+?>This workshop was first presented at MIT Reality Hack 2023, it's a living resource for getting started with Dolby.io Game Engine Technolofgies and Plugins.  The community is invited to participate by writing additional modules and content via submitting pull requests; in fact, community members that contribute to this repo and write about it may be eligible for compensation. 
+
+Sign up for the community writing program to particpate.
