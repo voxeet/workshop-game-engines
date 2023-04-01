@@ -16,7 +16,7 @@ Enhance your games with realtime video/audio publishing as well as viewing capab
 
 #### Get The Code:
 GitHub Repo:
-* [Real-time Streaming SDK for Unity](https://github.com/CoSMoSoftware/unity-millicast-rts)
+* [Real-time Streaming SDK for Unity](https://github.com/millicast/millicast-unity-sdk)
 
 ?> You may find package names and references referring to the Dolby.io Real-Time Streaming (RTS) product as Millicast, for the purposes of this workshop; **RTS** and **Millicast** are the same service from Dolby.io
 
@@ -28,7 +28,7 @@ The Millicast Unity package allows game developers to publish and view streams f
 
 #### Installing the package
   * Create and open a new project - for the workshop we suggest using the Third-Person Template.
-  * Open the Package Manager From the editor; Window -> Package Manager and click the + to add package from GitURL and insert the following https://github.com/CoSMoSoftware/unity-millicast-rts.git into the add the package by git URL. 
+  * Open the Package Manager From the editor; Window -> Package Manager and click the + to add package from GitURL and insert the following https://github.com/millicast/millicast-unity-sdk into the add the package by git URL. 
 
 ![Package Manager Screen](assets/package-manager.png)
 
@@ -66,7 +66,7 @@ Now that you understand how to integrate the package and the basic usage, let us
 
 #### Resources:
 * Real-time Streaming SDK for Unity API Documentation of the classes, structs, unions and interfaces 
-  * [API Class Documentation](https://cosmosoftware.github.io/unity-millicast-rts/Documentation/html/annotated.html)
+  * [API Class Documentation](https://github.com/millicast/millicast-unity-sdk/blob/main/Documentation/html/annotated.html)
 
 
 #### Next Steps:
